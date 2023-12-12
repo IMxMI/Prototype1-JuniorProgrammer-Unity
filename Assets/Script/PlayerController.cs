@@ -13,6 +13,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Nous allons faire avancer le véhicule.
     }
 }
